@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074912971738",
+    "project_id": "saglikliyasam-3603b",
+    "storage_bucket": "saglikliyasam-3603b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074912971738:android:e6cea907bc880c1fb88ee3",
+        "android_client_info": {
+          "package_name": "com.example.sagliksistem.sagliksistem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074912971738-t1rt2t9o2hf4fv24nqv4125fk8rimk0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQd6DQNyu0Xr4zRu5RNPel02MhJMOvuKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074912971738-t1rt2t9o2hf4fv24nqv4125fk8rimk0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
